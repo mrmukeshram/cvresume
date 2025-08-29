@@ -62,3 +62,6 @@ dist
 # Mac/Windows files
 .DS_Store
 Thumbs.db
+
+# Duplicate/backup files
+*(1).*
